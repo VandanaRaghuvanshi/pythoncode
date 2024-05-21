@@ -1,1 +1,1 @@
-print("whatsapp guru ji pernam")
+print(whatsapp guru ji pernam")
